@@ -1,6 +1,11 @@
 ## An easy application that asks a server for a time and prints it
 
-Compiles with a makefile
+To try it yourself:
+
 ```bash
+git clone https://github.com/vlad1k337/time-sending-sockets
+cd src 
 make
-``` 
+```
+### Daytime service 
+If you using daytime service, than maybe port 13 is occupied by Daytime Service Protocol. If so, any attempts to start the server will fail, but you can start the client, and it should print the date for ya!  
