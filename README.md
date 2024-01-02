@@ -8,5 +8,5 @@ cd src
 make
 ```
 ### Daytime service 
-If you using daytime service, than port 13 is occupied by Daytime Service Protocol. 
-So, any attempts to start the server will fail, but you can start the client, and it should print the date for ya!  
+If you using daytime service then port 13 may be occupied by Daytime Service Protocol. 
+And so, any attempts to start the server will fail, but you can start the client, and it should print the date for ya!  
